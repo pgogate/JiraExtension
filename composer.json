@@ -1,5 +1,5 @@
 {
-    "name": "vipsoft/jira-extension",
+    "name": "prasadg/jira-extension",
     "type": "library",
     "description": "Load features for Behat from Jira issues",
     "keywords": ["bdd", "behat", "jira", "feature"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.6",
-        "behat/behat": "~2.4",
+        "behat/behat": "~3.0",
         "symfony/config": "~2.0",
         "symfony/dependency-injection": "~2.0"
     },
