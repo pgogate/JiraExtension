@@ -7,11 +7,10 @@
     "packages": [
         {
             "name": "behat/behat",
-            "version": "v2.5.1",
+            "version": "~3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Behat/Behat.git",
-                "reference": "b688e3c4bd65ef867d2ec0a0cf8e621c166e259b"
             },
             "dist": {
                 "type": "zip",
